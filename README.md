@@ -5,5 +5,5 @@ All programs are implemented in the Java programming language (Java version: 12.
 
 ## Concepts Implemented
 
-- [**Input/Output**](Lab 1)
+- [**Input/Output**](Lab%201)
 (*20/08/2020*)
