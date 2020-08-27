@@ -7,3 +7,6 @@ All programs are implemented in the Java programming language (Java version: 12.
 
 - [**Input/Output**](Lab%201)
 (*20/08/2020*)
+
+- [**Constructors***](Lab%202)
+(*27/08/2020*)
