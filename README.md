@@ -11,5 +11,5 @@ All programs are implemented in the Java programming language (Java version: 12.
 
 - [**Static Fields/Methods 1**](Lab%203)
 
-- [**Static Fields/Methods 2**](Lab%204))
+- [**Static Fields/Methods 2**](Lab%204)
 
