@@ -1,7 +1,7 @@
 ## Lab 3
 
 ### Question 3.1
-Create a class `Circle` uch that:
+Create a class `Circle` such that:
 - It has 3 fields of integer type called `x`, `y`, and `radius`;
 - It has a class level field for pi; and
 - It has three constructors:
