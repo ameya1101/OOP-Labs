@@ -13,3 +13,7 @@ All programs are implemented in the Java programming language (Java version: 12.
 
 - [**Static Fields/Methods 2**](Lab%204)
 
+- [**Inheritance and UML**](Lab%205)
+
+- [**Test 1**](Test%201)
+
