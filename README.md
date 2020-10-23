@@ -15,5 +15,11 @@ All programs are implemented in the Java programming language (Java version: 12.
 
 - [**Inheritance and UML**](Lab%205)
 
+- [**Interfaces**](Lab%027)
+
+- [**Nested Classes**](Lab%028)
+
 - [**Test 1**](Test%201)
+
+- [**Test 2**](Test%202)
 
