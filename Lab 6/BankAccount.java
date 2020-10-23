@@ -35,7 +35,7 @@ public class BankAccount {
      * @param address Address of the user
      * @param balance Opeining balance
      */
-    BankAccount(String name, String address, double balance){
+    public BankAccount(String name, String address, double balance){
         details = new PersonalDetails(name, address);
         lastTran = new LastTransaction();
         this.balance = balance;
